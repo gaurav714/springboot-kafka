@@ -24,8 +24,8 @@ public class InventoryService {
 //    }
     //for multiple sku codes
     @Transactional(readOnly = true)
-    public List<InventoryResponseDto> isInStock(List<String> skuCode) {
-        return inventoryRepository.findByskuCodeIn(skuCode).stream()
+    public List<InventoryResponseDto> isInStock(List<String> skuCodes) {
+        return inventoryRepository.findByskuCodeIn(skuCodes).stream()
                 .map(this::mapper).toList();
 
 
