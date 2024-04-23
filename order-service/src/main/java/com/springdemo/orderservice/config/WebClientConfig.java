@@ -6,9 +6,10 @@ import org.springframework.web.reactive.function.client.WebClient;
 
 @Configuration
 public class WebClientConfig {
-    @Bean
+
     //In order to use Webclient we need spring-webflux dependency
-    private WebClient webclient(){
+    @Bean
+    public WebClient webclient(){
         //bean will be created with the name webclient method
         return WebClient.builder().build();
 

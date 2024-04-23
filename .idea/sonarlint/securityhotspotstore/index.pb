@@ -64,8 +64,6 @@ Tinventory-service/src/main/java/com/springdemo/inventoryservice/model/Inventory
 ]product-service/src/main/java/com/springdemo/productservice/repository/ProductRepository.java,5\0\50d14ed075ad30ec4f5210b2287607ec5b6c481d
 ï
 einventory-service/src/test/java/com/springdemo/inventoryservice/InventoryServiceApplicationTests.java,0\1\01f24d8677d1e284a3b12bc927165f05736aa10e
-}
-Morder-service/src/main/java/com/springdemo/orderservice/config/WebClient.java,3\3\33a5d202315268a12702bb0be38dee793135f036
 É
 Sorder-service/src/main/java/com/springdemo/orderservice/config/WebClientConfig.java,3\3\33311ec3b06ffe7d1698020df65ef065f7227d05
 w
@@ -170,8 +168,6 @@ w
 G.idea/sonarlint/issuestore/d/3/d3d0a9197c80c2019836bdf3d0c50d3b6dcab3a1,5\d\5de15776ffd3ded2ede3e50e49f1c2371975ae4b
 Å
 Q.idea/sonarlint/securityhotspotstore/3/3/33a5d202315268a12702bb0be38dee793135f036,d\9\d9e110e7bcf8d8f75a36d7d207f6b9e52b382869
-w
-G.idea/sonarlint/issuestore/3/3/33a5d202315268a12702bb0be38dee793135f036,7\2\72fabcc1cc6a2e0a2790f39a6042e0f7e5be43dc
 Å
 Q.idea/sonarlint/securityhotspotstore/3/3/33311ec3b06ffe7d1698020df65ef065f7227d05,7\2\72d149e945aa0dd2b20ba55047089c2c05c283e1
 Å
@@ -228,8 +224,6 @@ w
 G.idea/sonarlint/issuestore/7/1/716b12e8772c7917b72cd5ed8223bba1086ef224,7\7\7707570ad22fa342b1ec72deed1f2fee141f3363
 w
 G.idea/sonarlint/issuestore/7/2/72d149e945aa0dd2b20ba55047089c2c05c283e1,9\4\94f4b25011cd78c2b80cb924aafd6b78f4b7399c
-w
-G.idea/sonarlint/issuestore/7/2/72fabcc1cc6a2e0a2790f39a6042e0f7e5be43dc,3\a\3a3fe65c99824d2a065fb4aece192aca15127842
 w
 G.idea/sonarlint/issuestore/d/e/de6bdf984440a2052ac7f0a9cfdfb204f311daa7,8\0\80111edf6066acd406f04b531f9874cd1a36e201
 w
@@ -428,3 +422,7 @@ w
 G.idea/sonarlint/issuestore/2/b/2b8ac5a9a74b02d648244c8b5f06d99af4c184d3,2\4\2491afc8e5ad8e6cd5517419aa2364d7b7078649
 w
 G.idea/sonarlint/issuestore/2/c/2cabb939da04d3de3a200bf2b575690e1a16316d,1\0\10f2119b18de4c2d93011c2acd27301df22c2983
+ç
+]inventory-service/src/main/java/com/springdemo/inventoryservice/dto/InventoryResponseDto.java,8\c\8cb687644ca042428a6146e402da409e41fe744f
+Ö
+Uorder-service/src/main/java/com/springdemo/orderservice/dto/InventoryResponseDto.java,b\4\b4321f44ca96c8201aa57e857b6b6f6a662baae8
