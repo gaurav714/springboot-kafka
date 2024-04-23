@@ -17,7 +17,7 @@ import java.util.UUID;
 @Service
 public class OrderService {
     private final OrderRepository orderRepository;
-    private final  WebClient webClient;
+    private final  WebClient.Builder webClientBuilder;
 
     public void placeOrder(OrderRequestDto orderRequestDto) {
         Order order= new Order();
@@ -33,7 +33,7 @@ public class OrderService {
 
         //Very important feature of url builder
         //sending List of skuCode as a query parameter
-        InventoryResponseDto[] invRespoArr = webClient.get().uri("http://localhost:8082/api/inventory",
+        InventoryResponseDto[] invRespoArr = webClientBuilder.build().get().uri("http://inventory-service/api/inventory",
                         uriBuilder -> uriBuilder.queryParam("skuCodes", skuCodes).build())
                 .retrieve().bodyToMono(InventoryResponseDto[].class)
                 .block();
