@@ -228,8 +228,6 @@ w
 G.idea/sonarlint/issuestore/d/6/d6c2d27b337656b6b22ef22f1f4cd2abce39a7ba,0\f\0f57af697d8f618974ea740518c9733ae2371015
 w
 G.idea/sonarlint/issuestore/d/7/d76c417df71f978575bc5922640ef99e2c433f33,c\3\c3d3df235e8968c806d389b1a80bceff692cbf62
-w
-G.idea/sonarlint/issuestore/d/9/d9e110e7bcf8d8f75a36d7d207f6b9e52b382869,7\9\79fba84f8f9e29f82b1f1807ec78c7880ccb41ab
 Å
 Q.idea/sonarlint/securityhotspotstore/5/d/5de15776ffd3ded2ede3e50e49f1c2371975ae4b,3\f\3f4e1098c5f08bf8f5db187d2ebd1e39473d5a54
 Å
@@ -272,8 +270,6 @@ w
 G.idea/sonarlint/issuestore/c/2/c2daf0de5cfb3ce7fa19c7ab96963e031f32bb29,b\3\b31a21a9d1e9971c0add60ac8d8824207d41eecb
 Å
 Q.idea/sonarlint/securityhotspotstore/d/7/d76c417df71f978575bc5922640ef99e2c433f33,a\b\ab459f4d5660358912b8081dc7e1af3644534d26
-Å
-Q.idea/sonarlint/securityhotspotstore/d/9/d9e110e7bcf8d8f75a36d7d207f6b9e52b382869,a\1\a1524ad50e461bbe9651d765025fcf6943f61d2f
 Å
 Q.idea/sonarlint/securityhotspotstore/c/2/c2daf0de5cfb3ce7fa19c7ab96963e031f32bb29,6\c\6c25d2964b3df5cd43ee316a2f99b0699b5f82df
 w
@@ -437,6 +433,8 @@ j
 C
 api-gateway/pom.xml,2\b\2bfa2b108f2439e99e004f4085b58c22cf995f73
 ~
-Napi-gateway/src/main/java/com/springdemo/apigateway/apigateway/ApiGateway.java,3\1\3172838f721b3b62e314e37c8685e84e598821f9
-~
 Napi-gateway/src/main/java/com/springdemo/apigateway/ApiGatewayApplication.java,6\0\609996a0fd7299421607ceb0b0c115f8fb65b9ed
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+d
+4api-gateway/src/main/java/config/SecurityConfig.java,f\0\f07d3c9fb8a3df4e05c5413d704bbfff3d4adfbd
