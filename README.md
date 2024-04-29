@@ -1,4 +1,5 @@
-THIS IS A DEV BRANCH
+THIS IS THE MAIN BRANCH
+DO NOT CLONE
 # springboot-kafka
 With Discovery Service
 Spring inbuilt Api Gateway
